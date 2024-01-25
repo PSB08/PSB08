@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=FFFA00&height=200&section=header&text=PSB08_world&fontSize=50" />
-
+<img src="https://capsule-render.vercel.app/api?type=shark&color=87FFF9&height=200&section=header&text=PSB08&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=87FFF9&height=200&section=footer&text=ggm student&fontSize=50" />
 # welcome to my github repository
 
 > 안녕하세요 신입생 박성빈입니다 <br>
