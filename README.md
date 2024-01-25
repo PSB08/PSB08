@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=PSB08_world&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+<img src="https://capsule-render.vercel.app/api?type=shark&color=FFFA00&height=200&section=header&text=PSB08_world&fontSize=50" />
 
+<img src="https://capsule-render.vercel.app/api?type=shark&color=FFFA00&height=200&section=footer&text=ggm student&fontSize=50" />
 # welcome to my github repositroy
 
-> 안녕하세요 <br>
-ㅇㅁㄴㅇㅂㅈㅇㅁㄴㅇ
+> 안녕하세요 신입생 박성빈입니다 <br>
+> 잘 부탁 드립니다!!
 
-[![Gondr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSB08)](https://github.com/anuraghazra/github-readme-stats)
+[![PSB08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSB08)](https://github.com/anuraghazra/github-readme-stats)
