@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=FFFA00&height=200&section=header&text=PSB08_world&fontSize=50" />
-
 <img src="https://capsule-render.vercel.app/api?type=shark&color=FFFA00&height=200&section=footer&text=ggm student&fontSize=50" />
 # welcome to my github repositroy
 
