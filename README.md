@@ -1,6 +1,4 @@
 # welcome to my github repository
-<img src = "&text=PSB's Portfolio&fontSize=75" />
-
 
 > 안녕하세요 신입생 박성빈입니다 <br>
 > 잘 부탁 드립니다!!
