@@ -1,6 +1,6 @@
-<img src = "https://capsule-render.vercel.app/api?&color=0c70F2&text=PSB's GitHub&fontSize=75" />
-
 # welcome to my github repository
+<img src = "https://capsule-render.vercel.app/api?&color=0c70F2&text=PSB's Portfolio&fontSize=75" />
+
 
 > 안녕하세요 신입생 박성빈입니다 <br>
 > 잘 부탁 드립니다!!
