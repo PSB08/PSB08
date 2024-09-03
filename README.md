@@ -23,3 +23,5 @@
 ![js](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 
 ![js](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=PSB08)](https://solved.ac/PSB08/)
