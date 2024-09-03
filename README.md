@@ -6,8 +6,6 @@
 
 ![PSB08's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSB08)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PSB08)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSB08&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 ![js](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
