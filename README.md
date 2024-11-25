@@ -1,6 +1,6 @@
 # welcome to my github repository
 
-> 안녕하세요 신입생 박성빈입니다 <br>
+> 안녕하세요 박성빈입니다 <br>
 > 잘 부탁 드립니다!!
 > 꾸미기 테스트 중 입니다!
 
